@@ -1,0 +1,9 @@
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\obj\Debug\N5_WatchMenu.csprojAssemblyReference.cache
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\obj\Debug\N5_WatchMenu.Form1.resources
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\obj\Debug\N5_WatchMenu.Properties.Resources.resources
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\obj\Debug\N5_WatchMenu.csproj.GenerateResource.cache
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\bin\Debug\N5_WatchMenu.exe.config
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\bin\Debug\N5_WatchMenu.exe
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\bin\Debug\N5_WatchMenu.pdb
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\obj\Debug\N5_WatchMenu.exe
+E:\GitHub\Use-Case-Myself\N5_WatchMenu\obj\Debug\N5_WatchMenu.pdb
