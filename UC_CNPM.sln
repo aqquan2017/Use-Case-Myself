@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N3_SearchStuff", "..\N3_SearchStuff\N3_SearchStuff.csproj", "{9EA533EB-D44D-442F-9DE8-C84119FA7E31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N3_SearchStuff", "N3_SearchStuff\N3_SearchStuff.csproj", "{9EA533EB-D44D-442F-9DE8-C84119FA7E31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N9_ManageOrder", "..\N9_ManageOrder\N9_ManageOrder.csproj", "{6B1E9BBA-F5F2-4EC9-8439-88F2F17D85CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N9_ManageOrder", "N9_ManageOrder\N9_ManageOrder.csproj", "{6B1E9BBA-F5F2-4EC9-8439-88F2F17D85CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

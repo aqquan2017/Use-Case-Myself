@@ -7,3 +7,12 @@ E:\GitHub\Usecase_Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.Properties.Reso
 E:\GitHub\Usecase_Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.csproj.GenerateResource.cache
 E:\GitHub\Usecase_Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.exe
 E:\GitHub\Usecase_Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.pdb
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\bin\Debug\N3_SearchStuff.exe.config
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\bin\Debug\N3_SearchStuff.exe
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\bin\Debug\N3_SearchStuff.pdb
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.csprojAssemblyReference.cache
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.Form1.resources
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.Properties.Resources.resources
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.csproj.GenerateResource.cache
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.exe
+E:\GitHub\Use-Case-Myself\N3_SearchStuff\obj\Debug\N3_SearchStuff.pdb

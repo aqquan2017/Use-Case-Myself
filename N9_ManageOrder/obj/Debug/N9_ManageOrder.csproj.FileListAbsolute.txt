@@ -1,0 +1,9 @@
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\bin\Debug\N9_ManageOrder.exe.config
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\bin\Debug\N9_ManageOrder.exe
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\bin\Debug\N9_ManageOrder.pdb
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\obj\Debug\N9_ManageOrder.Form1.resources
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\obj\Debug\N9_ManageOrder.Properties.Resources.resources
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\obj\Debug\N9_ManageOrder.csproj.GenerateResource.cache
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\obj\Debug\N9_ManageOrder.exe
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\obj\Debug\N9_ManageOrder.pdb
+E:\GitHub\Use-Case-Myself\N9_ManageOrder\obj\Debug\N9_ManageOrder.csprojAssemblyReference.cache
