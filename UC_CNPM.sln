@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N9_ManageOrder", "N9_Manage
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N5_WatchMenu", "N5_WatchMenu\N5_WatchMenu.csproj", "{B2B942EE-56A4-4CF7-9099-307C124DDFEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N3_ManageDiscount", "N3_ManageDiscount\N3_ManageDiscount.csproj", "{BFA20D95-67D1-44B8-882B-0B6BFEAADD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thang_N9_Admin_ManageProduct", "..\UseCase_CNPM_Th-ng\Thang_N9_Admin_ManageProduct.csproj", "{85E4B1F0-7226-41F1-8998-85EC2DE27214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{B2B942EE-56A4-4CF7-9099-307C124DDFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2B942EE-56A4-4CF7-9099-307C124DDFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2B942EE-56A4-4CF7-9099-307C124DDFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA20D95-67D1-44B8-882B-0B6BFEAADD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA20D95-67D1-44B8-882B-0B6BFEAADD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA20D95-67D1-44B8-882B-0B6BFEAADD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA20D95-67D1-44B8-882B-0B6BFEAADD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E4B1F0-7226-41F1-8998-85EC2DE27214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E4B1F0-7226-41F1-8998-85EC2DE27214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E4B1F0-7226-41F1-8998-85EC2DE27214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E4B1F0-7226-41F1-8998-85EC2DE27214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

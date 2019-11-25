@@ -1,0 +1,10 @@
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\bin\Debug\Thang_CNPM.exe.config
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\bin\Debug\Thang_CNPM.exe
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\bin\Debug\Thang_CNPM.pdb
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\obj\Debug\Thang_CNPM.Form1.resources
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\obj\Debug\Thang_CNPM.Form2.resources
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\obj\Debug\Thang_CNPM.Properties.Resources.resources
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\obj\Debug\N3_ManageDiscount.csproj.GenerateResource.cache
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\obj\Debug\Thang_CNPM.exe
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\obj\Debug\Thang_CNPM.pdb
+E:\GitHub\Use-Case-Myself\N3_ManageDiscount\obj\Debug\N3_ManageDiscount.csprojAssemblyReference.cache

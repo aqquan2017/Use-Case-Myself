@@ -1,0 +1,9 @@
+E:\GitHub\Thang_CNPM\Thang_CNPM\bin\Debug\Thang_CNPM.exe.config
+E:\GitHub\Thang_CNPM\Thang_CNPM\bin\Debug\Thang_CNPM.exe
+E:\GitHub\Thang_CNPM\Thang_CNPM\bin\Debug\Thang_CNPM.pdb
+E:\GitHub\Thang_CNPM\Thang_CNPM\obj\Debug\Thang_CNPM.csprojAssemblyReference.cache
+E:\GitHub\Thang_CNPM\Thang_CNPM\obj\Debug\Thang_CNPM.Properties.Resources.resources
+E:\GitHub\Thang_CNPM\Thang_CNPM\obj\Debug\Thang_CNPM.csproj.GenerateResource.cache
+E:\GitHub\Thang_CNPM\Thang_CNPM\obj\Debug\Thang_CNPM.exe
+E:\GitHub\Thang_CNPM\Thang_CNPM\obj\Debug\Thang_CNPM.pdb
+E:\GitHub\Thang_CNPM\Thang_CNPM\obj\Debug\Thang_CNPM.Form1.resources

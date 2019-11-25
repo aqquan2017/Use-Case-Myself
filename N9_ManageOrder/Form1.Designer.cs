@@ -2,6 +2,10 @@
 {
     partial class Form1
     {
+        public Form1()
+        {
+            InitializeComponent();
+        }
         /// <summary>
         /// Required designer variable.
         /// </summary>
